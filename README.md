@@ -14,15 +14,19 @@ I am a passionate and dynamic full stack developer who recently graduated Makers
 
 Through working in public relations, marketing and sales, I have been able to develop and refine both my verbal and written communication skills. Dealing with clients, journalists, collegues and memebrs of the public on a daily basis has taught me the value of good communication. 
 
-#### Analytical
+#### Team Player
 
-Through my studies in Geography I have been able to analyse and find solutions to problems, this was demonstrated in my end of year thesis for my masters where I analysed air pollution on the underground and discussed how best to solve this issue.
+Working in teams 
 
 #### Adaptability
 
-- Experience working under tight time frames remotely during the Covid-19 pandemic 
+Experience working under tight time frames remotely during the Covid-19 pandemic 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+#### Active Learner 
+
+I
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -70,6 +74,7 @@ BSc in Geography
 
 ## Hobbies <br>
 
-- Photography (film & digital).  
-- Gardening.  
-- Art. 
+- Photography (film & digital). 
+- Art. I'm a member of various art galleries & love seeing new exhibitions, I find it provides the perfect quiet space for creative inspiration.  
+- Yoga. Best way to destress and renergize after a day full of coding, often so effective I end up coding for hours after.
+- Gardening. Pottering around the garden, often includes beekeeping. Good exercise & is the perfect unblocker. 
