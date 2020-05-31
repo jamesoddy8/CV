@@ -1,32 +1,31 @@
 # James Oddy
 <br>
 
-I am a passionate and dynamic full stack developer who recently graduated Makers Academy. I have recently moved into tech after studying environment & development geography and working in Marketing & PR. Software development encompasses all of my interests: challenging environments with the potential to alleviate global issues; collaboration with people on exciting new ideas who and a continuous learning environment. I am looking for a role where I can strenghten what I have learned so far and continue to learn to enhance my knowledge of software development. 
+I am a passionate and dynamic **Full Stack Junior Developer** who recently graduated Makers Academy. I have recently moved into tech after studying environment & development geography and working in Marketing & PR. 
 
-## Skills
+Software development encompasses all of my interests: challenging environments with the potential to alleviate global issues; collaboration with people on exciting new ideas who and a continuous learning environment. I am looking for a role where I can strenghten what I have learned so far and continue to learn to enhance my knowledge of software development. 
 
-- Communication
-- Analytical 
-- Adaptability
-- 
+**Tech Skills**: Ruby, Rails, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, SQLite, Heroku, Sinatra, Node.js, jQuery
 
-#### Communication
+## Skills<br>
 
-Through working in public relations, marketing and sales, I have been able to develop and refine both my verbal and written communication skills. Dealing with clients, journalists, collegues and memebrs of the public on a daily basis has taught me the value of good communication. 
+#### Excellent communicator
 
-#### Team Player
+During my time working in public relations and marketing, I liased with clients, journalists and the general public on a daily basis. Since then I have continued to further develop and refine both my verbal and written communication skills for software development through daily pairing and working in teams to complete projects.
 
-Working in teams 
+#### Great team player
 
-#### Adaptability
+From working to complete my final thesis, where working in a team and sharing ideas 
+
+#### Fast learner
 
 Experience working under tight time frames remotely during the Covid-19 pandemic 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-#### Active Learner 
+#### Analytical thinker
 
-I
+For my MA degree, I analysed 
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -45,34 +44,33 @@ I
 
 ## Education <br>
 
-### Makers Academy (January 2020 to May 2020)
-TDD, OOP, MVC <br>
-AGILE <br>
-Ruby, Rails, JavaScript <br>
-RSpec, Jasmine <br>
-Bootstrap <br>
+### Makers Academy (Jan 2020 to May 2020)
+* Test Driven Development and Behaviour Driven Development 
+* Object-oriented Design
+* AGILE methodologies
+* Ruby, Rails, JavaScript 
+* RSpec, Jasmine 
+* Pair Programming 
 
-#### King's College London (2017 to 2018)
-MA in Environment & Development Geography.<br>
-Thesis on "Commuter awareness of air pollution on the London underground".<br>
-Modules in Practising Social Methods, Human Mobility, Climate Change & Culture, Disasters & Development, Environmental Development in the Global South.
+#### King's College London (Sep 2017 to Sep 2018)
+* MA in Environment & Development Geography
+* Merit
+* Thesis on "Commuter awareness of air pollution on the London underground"
+* Modules in Practising Social Methods, Human Mobility, Climate Change & Culture, Disasters & Development, Environmental Development in the Global South
 
-#### University of Portsmouth (2010 to 2013)
-BSc in Geography
+#### University of Portsmouth (Sep 2010 to Sep 2013)
+* BSc in Geography
+* 2:1 
 
 ## Experience <br>
 
-**The Drinks Company (20 to 2020)**    
+**The Drinks Company (2018 to 2020)**    
 *Account Manager*  
-- Managing Amazon Vendor Central account.
-- 
 
 **Massey PR (May 2015 to April 2017)**   
 *Junior Account Executive*  
-- Liasing with clients & press on a daily basis. 
-- Organising events. 
 
-## Hobbies <br>
+## Hobbies & Interests<br>
 
 - Photography (film & digital). 
 - Art. I'm a member of various art galleries & love seeing new exhibitions, I find it provides the perfect quiet space for creative inspiration.  
