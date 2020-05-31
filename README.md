@@ -3,7 +3,7 @@
 
 I am a passionate and dynamic **Full Stack Junior Developer** who recently graduated Makers Academy. I have recently moved into tech after studying environment & development geography and working in Marketing & PR. 
 
-Software development encompasses all of my interests: challenging environments with the potential to alleviate global issues; collaboration with people on exciting new ideas who and a continuous learning environment . I am looking for a role where I can strenghten what I have learned so far and continue to learn to enhance my knowledge of software development. 
+Software development encompasses all of my interests: challenging environments with the potential to alleviate global issues; collaboration with people on exciting new ideas who and a continuous learning environment . I am looking for a role where I can strengthen what I have learned so far and continue to learn to enhance my knowledge of software development.
 
 **Tech Skills**: Ruby, Rails, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, SQLite, Heroku, Sinatra, Node.js, jQuery
 
