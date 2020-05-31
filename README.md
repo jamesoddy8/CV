@@ -44,7 +44,7 @@ For my MA degree, I analysed
 
 ## Education <br>
 
-### Makers Academy (Jan 2020 to May 2020)
+### Makers Academy (Feb 2020 to May 2020)
 * Test Driven Development and Behaviour Driven Development 
 * Object-oriented Design
 * AGILE methodologies
