@@ -53,13 +53,13 @@ For my MA degree, I analysed
 * RSpec, Jasmine 
 * Pair Programming 
 
-#### King's College London (Sep 2017 to Sep 2018)
+### King's College London (Sep 2017 to Sep 2018)
 * MA in Environment & Development Geography
 * Merit
 * Thesis on "Commuter awareness of air pollution on the London underground"
 * Modules in Practising Social Methods, Human Mobility, Climate Change & Culture, Disasters & Development, Environmental Development in the Global South
 
-#### University of Portsmouth (Sep 2010 to Sep 2013)
+### University of Portsmouth (Sep 2010 to Sep 2013)
 * BSc in Geography
 * 2:1 
 
