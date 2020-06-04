@@ -1,4 +1,4 @@
-# James Oddy
+# JAMES ODDY
 <br>
 
 I am a passionate and dynamic **Full Stack Junior Developer** who recently graduated Makers Academy. I have recently moved into tech after studying environment & development geography and working in Marketing & PR. 
