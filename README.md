@@ -11,11 +11,11 @@ Software development encompasses all of my interests: challenging environments w
 
 |Project|Summmary|Technologies|
 |-----------|---------|------------|
-|Acebook|Team project to build a clone of facebook|Ruby on Rails, JavaScript, PostgreSQL, RSPec, Bootstrap, Heroku, Travis CI|
-|Community Video 2020|Makers Academy final project based on #techforgood. Our goal was to create a website that allowed creative people to post free tutorials on whatever they would like to share. Inspired by the CO-VID 19 outbreak where most of the world had to respect social distancing and have most of their lives occur in the online world.|Ruby on Rails, JavaScript, PostgreSQL, RSpec, Rubocop, Travis CI, Heroku| 
-|MakersBNB|Team project to build a clone of AirBNB|Ruby, Active Record, PostgreSQL, RSpec, CSS|
-|Second Life|Team project based on #techforgood. An app where users can upcycle their belongings, giving perfectly good items a "Second Life" rather than ending up in landfill.|Ruby on Rails, Javascript, Bootstrap, PostgresSQL, Heroku|
-|isitbusyornot|Hackathon team project on the brief of social distancing, made to allow users to get an idea of how busy a location is based on Twitter API geocoded data|JavaScript, Node.js, React, Twitter API, Openlayers API, Heroku|
+|[Acebook](https://github.com/sgneha/acebook-byteU)|Team project to build a clone of facebook|Ruby on Rails, JavaScript, PostgreSQL, RSPec, Bootstrap, Heroku, Travis CI|
+|[Community Video 2020](https://github.com/jamesoddy8/co-vid20-20)|Makers Academy final project based on #techforgood. Our goal was to create a website that allowed creative people to post free tutorials on whatever they would like to share. Inspired by the CO-VID 19 outbreak where most of the world had to respect social distancing and have most of their lives occur in the online world.|Ruby on Rails, JavaScript, PostgreSQL, RSpec, Rubocop, Travis CI, Heroku| 
+|[MakersBNB](https://github.com/plkujaw/makers-bnb)|Team project to build a clone of AirBNB|Ruby, Active Record, PostgreSQL, RSpec, CSS|
+|[Second Life](https://github.com/jarasmar/Second_Life)|Team project based on #techforgood. An app where users can upcycle their belongings, giving perfectly good items a "Second Life" rather than ending up in landfill.|Ruby on Rails, Javascript, Bootstrap, PostgresSQL, Heroku|
+|[isitbusyornot](https://github.com/Peter2-71828/IsItBusyOrNot)|Hackathon team project on the brief of social distancing, made to allow users to get an idea of how busy a location is based on Twitter API geocoded data|JavaScript, Node.js, React, Twitter API, Openlayers API, Heroku|
 
 ## Skills<br>
 
@@ -25,22 +25,15 @@ During my time working in public relations and marketing, I liased with clients,
 
 #### Great team player
 
-From working to complete my final thesis, where working in a team and sharing ideas 
+I have always thrived working within teams, both professionally in a work environment and academically at Makers Academy and university. I have particularly enjoyed working as part of a team to complete software development projects for events like hackathons. 
 
 #### Fast learner
 
-Experience working under tight time frames remotely during the Covid-19 pandemic 
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Makers Academy bootcamp is a short intensive course of only 12 weeks, while I was there I learned 4 new languages. As well as this, I developed vital experience working to the deadline of a final project under tight time frames remotely during the Covid-19 pandemic. For this project we had less than two weeks to complete it, during this time I developed a deep understand of Rails, testing on Rails and deployment with Heroku and Travis. 
 
 #### Analytical thinker
 
-For my MA degree, I analysed 
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+For my MA degree thesis I wanted to identify an issue that had not been extensively covered and understand why the issue exists. For this I decided to investigate why air pollution levels are so high on the London Underground and if everyday commuters were aware of this, this involved collecting and analysing air pollution data from the London Underground and survey responses. 
 
 ## Education <br>
 
