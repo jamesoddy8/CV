@@ -5,7 +5,7 @@ I am a passionate and dynamic **Full Stack Junior Developer** who recently gradu
 
 Software development encompasses all of my interests: challenging environments with the potential to alleviate global issues; collaboration with people on exciting new ideas and an environment where active learning of new tech is encouraged. I am looking for a role where I can strengthen what I have learned so far and continue to learn to enhance my knowledge of software development.
 
-**Tech Skills**: Ruby, Rails, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, SQLite, Heroku, Sinatra, Node.js, jQuery, React, Twitter API
+**Tech Skills**: Ruby, Rails, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, SQLite, Heroku, Sinatra, Node.js, jQuery, React, Twitter API, Google Maps API
 
 ## Projects <br>
 
